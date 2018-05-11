@@ -1,5 +1,5 @@
 # PenPen2D
-unityroomで公開している「いわてタッチ」プロジェクト
+unityroomで公開している「いわてタッチ」プロジェクト  
 https://unityroom.com/games/iwatetouch
 
 操作方法  
